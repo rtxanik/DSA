@@ -1,0 +1,1 @@
+This is just a goofy test project provided by the course organizers to check whether it was possible to set things up
